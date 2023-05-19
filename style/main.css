@@ -8,7 +8,7 @@ height: 60px;}
 
 label.logo{color: white;
 margin-left: 40px;}
-ch{background: linear-gradient(to left gold,red,lightgreen,purple);}
+.ch{background: linear-gradient(to left gold,red,lightgreen,purple);}
 .ch1{
     text-align: center;
     background: rebeccapurple;
