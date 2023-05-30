@@ -41,7 +41,7 @@ margin-left: 40px;}
     @media (min-width:647px){
 
 .ch button{width: 50%;
-    height: 60px;
+    height: 70px;
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 35px;
@@ -96,10 +96,37 @@ margin-left: 48%;}
 }
 
 
-b{color: brown;
-font-size: 13px;
+b{color: rgb(191, 218, 43);
+font-size: 15px;
+display:inline-flex;
 margin-left: 10px;}
-c{color: rgb(75, 15, 131);
-font-size: 13px;
-text-decoration: underline;
+c{color: rgb(228, 51, 219);
+font-size: 15px;
+display: inline-flex;
 margin-left: 10px;}
+
+
+po{display: none;
+color: darkgray;
+opacity: 70%;
+position: absolute;
+margin-left: 0;
+}
+
+b:hover po{display:flex;
+    margin: 16px;
+    
+
+}
+
+
+
+
+ar{display: none;
+color: darkgray;
+size: 10px;
+position: absolute;
+right: 100;}
+
+c:hover ar{display: flex;
+margin-top: 16px;}
