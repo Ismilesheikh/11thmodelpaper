@@ -257,3 +257,31 @@ b1_10.style.color = 'white';
 e1_10.innerHTML = seen;
 });
 
+//11//
+
+a1_11.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+b1_11.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+});
+c1_11.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+d1_11.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+e1_11.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+b1_11.style.backgroundColor = 'green';
+b1_11.style.color = 'white';
+e1_11.innerHTML = seen;
+});
+
+
+
