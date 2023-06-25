@@ -283,5 +283,111 @@ b1_11.style.color = 'white';
 e1_11.innerHTML = seen;
 });
 
+//12//
+
+a1_12.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+b1_12.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+c1_12.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+});
+d1_12.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+e1_12.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+c1_12.style.backgroundColor = 'green';
+c1_12.style.color = 'white';
+e1_12.innerHTML = seen;
+});
+
+//13//
+
+a1_13.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+});
+b1_13.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+c1_13.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+d1_13.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+e1_13.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+a1_13.style.backgroundColor = 'green';
+a1_13.style.color = 'white';
+e1_13.innerHTML = seen;
+});
+
+//4//
+
+a1_14.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+b1_14.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+c1_14.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+d1_14.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+});
+e1_14.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+d1_14.style.backgroundColor = 'green';
+d1_14.style.color = 'white';
+e1_14.innerHTML = seen;
+});
+
+//15//
+
+a1_15.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+b1_15.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+c1_15.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+});
+d1_15.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'red';
+  event.target.style.color = 'white';
+});
+e1_15.addEventListener('click', function onClick(event) {
+  event.target.style.backgroundColor = 'green';
+  event.target.style.color = 'white';
+c1_15.style.backgroundColor = 'green';
+c1_15.style.color = 'white';
+e1_15.innerHTML = seen;
+});
+
+
+
 
 
