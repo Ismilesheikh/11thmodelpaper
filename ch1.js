@@ -387,6 +387,29 @@ c1_15.style.color = 'white';
 e1_15.innerHTML = seen;
 });
 
+a1_16.addEventListener('click', function onClick(event) { 
+   event.target.style.backgroundColor = 'green'; 
+   event.target.style.color = 'white'; 
+ }); 
+ b1_16.addEventListener('click', function onClick(event) { 
+   event.target.style.backgroundColor = 'red'; 
+   event.target.style.color = 'white'; 
+ }); 
+ c1_16.addEventListener('click', function onClick(event) { 
+   event.target.style.backgroundColor = 'red'; 
+   event.target.style.color = 'white'; 
+ }); 
+ d1_16.addEventListener('click', function onClick(event) { 
+   event.target.style.backgroundColor = 'red'; 
+   event.target.style.color = 'white'; 
+ }); 
+ e1_16.addEventListener('click', function onClick(event) { 
+   event.target.style.backgroundColor = 'green'; 
+   event.target.style.color = 'white'; 
+ a1_16.style.backgroundColor = 'green'; 
+ a1_16.style.color = 'white'; 
+ e1_16.innerHTML = seen; 
+ });
 
 
 
